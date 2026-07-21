@@ -134,9 +134,15 @@ const Elavarasan = {
 
 <div align="center">
 
-<img width="49%" src="https://github-stats-extended.vercel.app/api?username=Isaiaarasan&amp;show_icons=true&amp;theme=radical&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=FF0080&amp;icon_color=00FFFF&amp;text_color=ffffff&amp;rank_icon=percentile&amp;count_private=true"/>
-<img width="49%" src="https://streak-stats.demolab.com/?user=Isaiaarasan&amp;theme=radical&amp;hide_border=true&amp;background=0D1117&amp;ring=FF0080&amp;fire=FF6B00&amp;currStreakLabel=00FFFF&amp;sideLabels=00FFFF&amp;dates=ffffff"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Isaiaarasan&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=1800"/>
 
+<img width="49%" src="https://streak-stats.demolab.com?user=Isaiaarasan&theme=radical&hide_border=true&cache_seconds=1800"/>
+
+<br><br>
+
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Isaiaarasan&layout=compact&theme=radical&hide_border=true&langs_count=10&cache_seconds=1800"/>
+
+<img width="57%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Isaiaarasan&theme=radical"/>
 <br/><br/>
 
 <img width="40%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Isaiaarasan&amp;layout=compact&amp;theme=radical&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=FF0080&amp;text_color=ffffff&amp;langs_count=8"/>
@@ -150,7 +156,9 @@ const Elavarasan = {
 ## 🏆 Achievement Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Isaiaarasan&amp;theme=radical&amp;no-frame=true&amp;margin-w=10&amp;margin-h=10&amp;column=6" width="100%"/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=Isaiaarasan&theme=algolia&no-frame=true&column=7&margin-w=15"/>
+
 </div>
 
 <!-- ═══════════════════ FIRE DIVIDER ═══════════════════ -->
@@ -333,20 +341,27 @@ Stack     →  MongoDB · Express · React · Node
 ## 📈 Contribution Activity Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Isaiaarasan&amp;bg_color=0D1117&amp;color=FF0080&amp;line=00FFFF&amp;point=FFFFFF&amp;area=true&amp;hide_border=true&amp;custom_title=Elavarasan%27s+Contribution+Graph" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Isaiaarasan&theme=react-dark&hide_border=true&area=true&amp;custom_title=Elavarasan%27s+Contribution+Graph" width="100%"/>
 </div>
 
 <!-- ═══════════════════ FIRE DIVIDER ═══════════════════ -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
+## 📈 GitHub Metrics
+
+<div align="center">
+
+<img width="100%" src="https://metrics.lecoq.io/Isaiaarasan?template=classic&base.header=0&base.activity=1&base.community=1&base.repositories=1&base.metadata=0&languages=1&isocalendar=1&achievements=1&followup=1&config.timezone=Asia/Kolkata"/>
+
+</div>
 ## 🐍 Contribution Snake
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Isaiaarasan/Isaiaarasan/output/github-contribution-grid-snake-dark.svg"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Isaiaarasan/Isaiaarasan/output/github-contribution-grid-snake.svg"/>
-    <img src="https://raw.githubusercontent.com/Isaiaarasan/Isaiaarasan/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" width="100%"/>
-  </picture>
+ <picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Isaiaarasan/Isaiaarasan/output/github-contribution-grid-snake-dark.svg">
+<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Isaiaarasan/Isaiaarasan/output/github-contribution-grid-snake.svg">
+<img src="https://raw.githubusercontent.com/Isaiaarasan/Isaiaarasan/output/github-contribution-grid-snake-dark.svg">
+</picture>
 </div>
 
 <!-- ═══════════════════ FIRE DIVIDER ═══════════════════ -->
