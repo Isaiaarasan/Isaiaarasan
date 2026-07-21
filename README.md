@@ -134,8 +134,8 @@ const Elavarasan = {
 
 <div align="center">
 
-<img width="49%" src="https://github-stats-extended.vercel.app/api?username=Isaiaarasan&amp;show_icons=true&amp;theme=radical&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=FF0080&amp;icon_color=00FFFF&amp;text_color=ffffff&amp;rank_icon=percentile&amp;include_all_commits=true&amp;count_private=true"/>
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Isaiaarasan&amp;theme=radical&amp;hide_border=true&amp;background=0D1117&amp;ring=FF0080&amp;fire=FF6B00&amp;currStreakLabel=00FFFF&amp;sideLabels=00FFFF&amp;dates=ffffff"/>
+<img width="49%" src="https://github-stats-extended.vercel.app/api?username=Isaiaarasan&amp;show_icons=true&amp;theme=radical&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=FF0080&amp;icon_color=00FFFF&amp;text_color=ffffff&amp;rank_icon=percentile&amp;count_private=true"/>
+<img width="49%" src="https://streak-stats.demolab.com/?user=Isaiaarasan&amp;theme=radical&amp;hide_border=true&amp;background=0D1117&amp;ring=FF0080&amp;fire=FF6B00&amp;currStreakLabel=00FFFF&amp;sideLabels=00FFFF&amp;dates=ffffff"/>
 
 <br/><br/>
 
@@ -150,7 +150,7 @@ const Elavarasan = {
 ## 🏆 Achievement Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy-tawny.vercel.app/?username=Isaiaarasan&amp;theme=radical&amp;no-frame=true&amp;margin-w=10&amp;margin-h=10&amp;column=6" width="100%"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Isaiaarasan&amp;theme=radical&amp;no-frame=true&amp;margin-w=10&amp;margin-h=10&amp;column=6" width="100%"/>
 </div>
 
 <!-- ═══════════════════ FIRE DIVIDER ═══════════════════ -->
